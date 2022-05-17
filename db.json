@@ -1,0 +1,12 @@
+{
+  "client": [
+    {
+      "name": "Naiim",
+      "surname": "Taefy",
+      "email": "naiim.tj@gmail.com",
+      "birthdate": "1989-07-11",
+      "notes": "Example Client",
+      "id": 1
+    }
+  ]
+}
